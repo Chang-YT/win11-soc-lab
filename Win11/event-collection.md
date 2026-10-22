@@ -15,5 +15,5 @@ make sure that events from the Windows 11 VM reaches Wazuh dashboard
 ## Result
 endpoint-to-SIEM pipeline works as Windows events from the win11 VM is visible in Wazuh
 
-![Windows events in Wazuh](screenshorts\threat_hunting01.png)
-![Threat Hunting in Wazuh](screenshorts\threat_hunting02.png)
+![Windows events in Wazuh](screenshorts/threat_hunting01.png)
+![Threat Hunting in Wazuh](screenshorts/threat_hunting02.png)

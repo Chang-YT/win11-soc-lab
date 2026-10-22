@@ -18,5 +18,5 @@ connecting Windows 11 VM to the Wazuh server so events show up in the SIEM (Wazu
 ## Result
 show **Active** in the dashboard
 
-![Endpoint connected in Wazuh](screenshorts\endpoints.png)
-![Wazuh Dashboard](screenshorts\overview.png)
+![Endpoint connected in Wazuh](screenshorts/endpoints.png)
+![Wazuh Dashboard](screenshorts/overview.png)
